@@ -1,0 +1,453 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.2.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:wq
+|2,0,1638975239,,"wq"
+:q
+|2,0,1638960735,,"q"
+:q\
+|2,0,1638729495,,"q\\"
+:q!
+|2,0,1638727979,,"q!"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+"0	CHAR	0
+		if(wiringPiISR(S1, INT_EDGE_FALLING, &interrupt1)<0){
+			return1;		
+		}
+|3,0,0,0,3,0,1638959169,"	if(wiringPiISR(S1, INT_EDGE_FALLING, &interrupt1)<0){","		return1;		","	}"
+""1	LINE	0
+				//printf("bad");
+|3,1,1,1,1,0,1638960756,"			//printf(\"bad\");"
+"2	LINE	0
+				//printf("good");
+|3,0,2,1,1,0,1638960753,"			//printf(\"good\");"
+"3	LINE	0
+			//fprintf(stderr, "Unable to setup ISR: %s\n", strerror(errno));
+|3,0,3,1,1,0,1638960744,"		//fprintf(stderr, \"Unable to setup ISR: %s\\n\", strerror(errno));"
+"4	LINE	0
+			}
+|3,0,4,1,1,0,1638959106,"		}"
+"5	LINE	0
+				
+|3,0,5,1,1,0,1638959106,"			"
+"6	LINE	0
+			if(wiringPiISR(S1, INT_EDGE_FALLING, &interrupt1)<0){
+|3,0,6,1,1,0,1638959105,"		if(wiringPiISR(S1, INT_EDGE_FALLING, &interrupt1)<0){"
+"7	LINE	0
+				intf("bad");
+|3,0,7,1,1,0,1638958937,"			intf(\"bad\");"
+"8	LINE	0
+				intf("bad");
+|3,0,8,1,1,0,1638958936,"			intf(\"bad\");"
+"9	LINE	0
+				intf("bad");
+|3,0,9,1,1,0,1638958932,"			intf(\"bad\");"
+"-	CHAR	0
+	r
+|3,0,36,0,1,0,1638958907,"r"
+
+# 파일 마크:
+'0  143  17  ~/smart_plant/main.c
+|4,48,143,17,1638975239,"~/smart_plant/main.c"
+'1  176  0  ~/smart_plant/main.c
+|4,49,176,0,1638970315,"~/smart_plant/main.c"
+'2  176  0  ~/smart_plant/main.c
+|4,50,176,0,1638970315,"~/smart_plant/main.c"
+'3  143  17  ~/smart_plant/main.c
+|4,51,143,17,1638970230,"~/smart_plant/main.c"
+'4  143  17  ~/smart_plant/main.c
+|4,52,143,17,1638970230,"~/smart_plant/main.c"
+'5  143  17  ~/smart_plant/main.c
+|4,53,143,17,1638970230,"~/smart_plant/main.c"
+'6  33  0  ~/smart_plant/main.c
+|4,54,33,0,1638970135,"~/smart_plant/main.c"
+'7  33  0  ~/smart_plant/main.c
+|4,55,33,0,1638970135,"~/smart_plant/main.c"
+'8  33  0  ~/smart_plant/main.c
+|4,56,33,0,1638970135,"~/smart_plant/main.c"
+'9  33  0  ~/smart_plant/main.c
+|4,57,33,0,1638970135,"~/smart_plant/main.c"
+
+# 점프목록 (새것이 먼저):
+-'  143  17  ~/smart_plant/main.c
+|4,39,143,17,1638975239,"~/smart_plant/main.c"
+-'  176  0  ~/smart_plant/main.c
+|4,39,176,0,1638975152,"~/smart_plant/main.c"
+-'  176  0  ~/smart_plant/main.c
+|4,39,176,0,1638970315,"~/smart_plant/main.c"
+-'  143  17  ~/smart_plant/main.c
+|4,39,143,17,1638970286,"~/smart_plant/main.c"
+-'  143  17  ~/smart_plant/main.c
+|4,39,143,17,1638970230,"~/smart_plant/main.c"
+-'  33  0  ~/smart_plant/main.c
+|4,39,33,0,1638970191,"~/smart_plant/main.c"
+-'  33  0  ~/smart_plant/main.c
+|4,39,33,0,1638970191,"~/smart_plant/main.c"
+-'  33  0  ~/smart_plant/main.c
+|4,39,33,0,1638970191,"~/smart_plant/main.c"
+-'  33  0  ~/smart_plant/main.c
+|4,39,33,0,1638970135,"~/smart_plant/main.c"
+-'  110  2  ~/smart_plant/main.c
+|4,39,110,2,1638969792,"~/smart_plant/main.c"
+-'  110  2  ~/smart_plant/main.c
+|4,39,110,2,1638969792,"~/smart_plant/main.c"
+-'  110  2  ~/smart_plant/main.c
+|4,39,110,2,1638969792,"~/smart_plant/main.c"
+-'  110  2  ~/smart_plant/main.c
+|4,39,110,2,1638969792,"~/smart_plant/main.c"
+-'  110  2  ~/smart_plant/main.c
+|4,39,110,2,1638967571,"~/smart_plant/main.c"
+-'  106  13  ~/smart_plant/main.c
+|4,39,106,13,1638967555,"~/smart_plant/main.c"
+-'  106  13  ~/smart_plant/main.c
+|4,39,106,13,1638967555,"~/smart_plant/main.c"
+-'  106  13  ~/smart_plant/main.c
+|4,39,106,13,1638967555,"~/smart_plant/main.c"
+-'  106  13  ~/smart_plant/main.c
+|4,39,106,13,1638967555,"~/smart_plant/main.c"
+-'  106  13  ~/smart_plant/main.c
+|4,39,106,13,1638967555,"~/smart_plant/main.c"
+-'  106  13  ~/smart_plant/main.c
+|4,39,106,13,1638962915,"~/smart_plant/main.c"
+-'  59  1  ~/smart_plant/main.c
+|4,39,59,1,1638960737,"~/smart_plant/main.c"
+-'  59  1  ~/smart_plant/main.c
+|4,39,59,1,1638960737,"~/smart_plant/main.c"
+-'  59  1  ~/smart_plant/main.c
+|4,39,59,1,1638960737,"~/smart_plant/main.c"
+-'  59  1  ~/smart_plant/main.c
+|4,39,59,1,1638960737,"~/smart_plant/main.c"
+-'  59  1  ~/smart_plant/main.c
+|4,39,59,1,1638960737,"~/smart_plant/main.c"
+-'  59  1  ~/smart_plant/main.c
+|4,39,59,1,1638960737,"~/smart_plant/main.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  1  0  ~/smart_plant/mian.c
+|4,39,1,0,1638960735,"~/smart_plant/mian.c"
+-'  60  1  ~/smart_plant/main.c
+|4,39,60,1,1638960716,"~/smart_plant/main.c"
+-'  60  1  ~/smart_plant/main.c
+|4,39,60,1,1638960716,"~/smart_plant/main.c"
+-'  60  1  ~/smart_plant/main.c
+|4,39,60,1,1638960716,"~/smart_plant/main.c"
+-'  60  1  ~/smart_plant/main.c
+|4,39,60,1,1638960716,"~/smart_plant/main.c"
+-'  60  1  ~/smart_plant/main.c
+|4,39,60,1,1638960716,"~/smart_plant/main.c"
+-'  60  1  ~/smart_plant/main.c
+|4,39,60,1,1638960716,"~/smart_plant/main.c"
+-'  60  1  ~/smart_plant/main.c
+|4,39,60,1,1638960716,"~/smart_plant/main.c"
+-'  172  3  ~/smart_plant/main.c
+|4,39,172,3,1638960704,"~/smart_plant/main.c"
+-'  175  3  ~/smart_plant/main.c
+|4,39,175,3,1638960704,"~/smart_plant/main.c"
+-'  172  3  ~/smart_plant/main.c
+|4,39,172,3,1638960704,"~/smart_plant/main.c"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/smart_plant/main.c
+	*	1638975237	0
+	"	143	17
+	^	143	18
+	.	143	17
+	+	26	13
+	+	25	14
+	+	28	0
+	+	30	0
+	+	34	0
+	+	28	1
+	+	32	1
+	+	30	14
+	+	34	14
+	+	31	12
+	+	35	12
+	+	170	77
+	+	76	15
+	+	106	12
+	+	108	15
+	+	138	14
+	+	106	13
+	+	140	3
+	+	172	0
+	+	140	2
+	+	171	2
+	+	170	9
+	+	79	17
+	+	109	17
+	+	141	17
+	+	140	15
+	+	79	4
+	+	106	15
+	+	109	4
+	+	138	16
+	+	141	4
+	+	170	16
+	+	79	0
+	+	77	0
+	+	78	3
+	+	111	0
+	+	110	0
+	+	111	0
+	+	110	3
+	+	143	0
+	+	144	0
+	+	142	15
+	+	110	15
+	+	78	15
+	+	75	55
+	+	75	0
+	+	75	2
+	+	57	1
+	+	75	0
+	+	59	1
+	+	58	9
+	+	63	1
+	+	63	0
+	+	60	0
+	+	63	0
+	+	64	0
+	+	61	0
+	+	60	17
+	+	63	17
+	+	60	48
+	+	63	48
+	+	58	8
+	+	61	8
+	+	64	8
+	+	56	0
+	+	27	0
+	+	26	14
+	+	3	16
+	+	58	0
+	+	58	54
+	+	26	4
+	+	58	3
+	+	172	3
+	+	58	0
+	+	70	0
+	+	74	0
+	+	79	3
+	+	106	14
+	+	111	3
+	+	78	4
+	+	110	4
+	+	138	15
+	+	142	4
+	+	143	3
+	+	170	15
+	+	79	17
+	+	111	18
+	+	143	17
+	+	79	17
+	+	111	17
+	+	143	17
+	+	106	9
+	+	69	24
+	+	73	23
+	+	106	12
+	+	79	18
+	+	138	9
+	+	170	10
+	+	111	17
+	+	143	17
+
+> ~/smart_plant/mian.c
+	*	1638960733	0
+	"	1	0
+
+> ~/smart_plant/main
+	*	1638731969	0
+	"	1	0
+
+> ~/smart_plant/Makefile
+	*	1638729900	0
+	"	10	0
+	^	10	0
+	.	4	7
+	+	9	1
+	+	1	5
+	+	4	7
+
+> ~/WiringPi/LED_test/test.c
+	*	1638727978	0
+	"	22	3
+	^	23	4
+	.	23	3
+	+	1	18
+	+	2	21
+	+	7	14
+	+	9	27
+	+	12	23
+	+	13	23
+	+	30	0
+	+	15	8
+	+	27	1
+	+	17	23
+	+	18	23
+	+	20	14
+	+	22	23
+	+	23	24
+	+	26	0
+	+	23	23
+	+	25	13
+	+	29	9
+	+	12	6
+	+	23	3
+
+> ~/WiringPi/LED_test/test
+	*	1638727964	0
+	"	1	0
+
+> ~/WiringPi/LED_test/Makefile
+	*	1637744365	0
+	"	10	0
+	^	10	0
+	.	11	0
+	+	1	11
+	+	11	0
